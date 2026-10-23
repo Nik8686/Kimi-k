@@ -5,7 +5,7 @@
 # ⚠️ الحدود المجانية: 5 اشتراكات حية + 10k رسالة trades/شهر لكل IP — كافٍ للتجربة،
 #    للتشغيل المتواصل استخدم مفتاح pumpdev المجاني (يرفع لـ 25 اشتراك / 50k رسالة)
 # ============================================================
-!pip -q install websockets
+
 
 import asyncio, json, os, time, math, random
 import urllib.request, urllib.parse
