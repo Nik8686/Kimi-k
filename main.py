@@ -13,7 +13,7 @@ from typing import List, Dict, Optional
 # ================== 0) الإعدادات ==================
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
-SOL_USD = 220.0  # حدّثه تقريبياً (لتحويل marketCapSol إلى $)
+SOL_USD = 110.0  # حدّثه تقريبياً (لتحويل marketCapSol إلى $)
 WINDOW_SEC = 300  # نافذة التحليل: 5 دقائق
 MAX_CONCURRENT = 4  # ≤ حد الاشتراكات الحية المجانية (5)
 MIN_SCORE_ALERT = 45.0  # مُخفّض بعد المعايرة الواقعية
