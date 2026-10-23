@@ -6,7 +6,6 @@
 #    للتشغيل المتواصل استخدم مفتاح pumpdev المجاني (يرفع لـ 25 اشتراك / 50k رسالة)
 # ============================================================
 
-
 import asyncio, json, os, time, math, random
 import urllib.request, urllib.parse
 import websockets
